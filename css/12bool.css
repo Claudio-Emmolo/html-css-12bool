@@ -18,13 +18,8 @@
 
     background-color: blue;
     color: white;
-    height: 50px;
 
     margin: .5rem;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .col-1{
