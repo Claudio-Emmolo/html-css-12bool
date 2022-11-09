@@ -4,3 +4,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* GENERAL */
+body{
+    background-color: rgb(19, 19, 19); /*DA RIMUOVERE*/
+}
+
+section{
+    margin: 1rem 0;
+}
+
+.nasted-green{
+    background-color: lime;
+    height: 80%;
+}
